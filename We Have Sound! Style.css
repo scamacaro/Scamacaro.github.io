@@ -1,0 +1,19 @@
+body { 
+    background-image: url(rocketblastoff.jpg);
+ image-rendering: optimizeQuality;
+ background-color: rgb(103, 102, 102);
+}
+h1 {
+ color: rgb(28, 27, 27);
+ font-style: normal;
+ font-weight: bold;
+ text-align: center;
+ font-family:  'Arial Narrow'
+}
+h2 { color: rgb(114, 38, 42);
+ font-style: normal;
+ font-weight: bold;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ text-align: center;
+ text-shadow: 2px 2px #000000;
+}
